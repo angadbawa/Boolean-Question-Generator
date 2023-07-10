@@ -34,7 +34,7 @@ Install the necessary libraries from **requirements.txt**.
 
 Use any **GPU** machine and run **train.py**
 
-Training this model for 4 epochs (default) took about 5-6 hrs on **DGX Machine**.
+Training this model for 4 epochs (default) took about 1 hour on **DGX Machine**.
 
 Note that since the dataset is small I barely used the validation set.
 
